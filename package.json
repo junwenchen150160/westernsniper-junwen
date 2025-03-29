@@ -1,0 +1,20 @@
+{
+  "name": "games-template",
+  "version": "1.0.0",
+  "description": "多页面游戏站生成器",
+  "main": "generate-games.js",
+  "scripts": {
+    "build": "node generate-games.js",
+    "start": "npx serve"
+  },
+  "keywords": [
+    "games",
+    "webpage",
+    "generator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 

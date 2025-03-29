@@ -1,0 +1,44 @@
+{
+  "games": [
+    {
+      "id": "game1",
+      "name": "太空射击",
+      "thumbnail": "images/game1.jpg",
+      "url": "https://example.com/games/space-shooter",
+      "description": "一款经典的太空射击游戏，击败外星人拯救地球！",
+      "instructions": "使用方向键移动飞船，空格键发射子弹。收集星星可以升级武器，避免被敌人击中。"
+    },
+    {
+      "id": "game2",
+      "name": "数字拼图",
+      "thumbnail": "images/game2.jpg",
+      "url": "https://example.com/games/number-puzzle",
+      "description": "考验你智力的数字拼图游戏，挑战你的逻辑思维能力！",
+      "instructions": "点击拼图块移动它们，将数字按顺序排列从1到15，空白格在右下角即为完成。"
+    },
+    {
+      "id": "game3",
+      "name": "赛车竞速",
+      "thumbnail": "images/game3.jpg",
+      "url": "https://example.com/games/racing",
+      "description": "激动人心的赛车游戏，体验速度与激情！",
+      "instructions": "使用方向键控制赛车方向，上键加速，下键刹车。注意路上的障碍物，收集加速道具可以提升速度。"
+    },
+    {
+      "id": "game4",
+      "name": "记忆配对",
+      "thumbnail": "images/game4.jpg",
+      "url": "https://example.com/games/memory-match",
+      "description": "训练你的记忆力，找出所有配对的卡片！",
+      "instructions": "点击卡片翻开它，尝试找到两张相同的卡片。找到所有配对即可通关。挑战自己，用最少的步数完成游戏！"
+    },
+    {
+      "id": "game5",
+      "name": "俄罗斯方块",
+      "thumbnail": "images/game5.jpg",
+      "url": "https://example.com/games/tetris",
+      "description": "经典中的经典，考验你的空间想象能力和反应速度！",
+      "instructions": "使用方向键控制方块移动和旋转，尽可能填满一行以消除方块。游戏会逐渐加快，看看你能坚持多久！"
+    }
+  ]
+} 
